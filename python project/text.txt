@@ -1,0 +1,5 @@
+step 1 :- make a data frame
+step 2 :- suffle the data values
+step 3 :- slice columns math, phy, chem using loe
+step 4 :- find the  mean of three clumns.
+step 5 :- felter the name of student having mean of (maths they and chem)>=60
